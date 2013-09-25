@@ -1,0 +1,115 @@
+.container {
+	width: 960px;
+	margin: 0px auto;
+}
+
+.error_area {
+	height: 35px;
+	width: 500px;
+}
+
+.error_warning{
+	color: red;
+	font-family: arial;
+	font-size: 16px;
+}
+
+.outer_area {
+	border: 2px solid blue;
+	min-height: 50px;
+}
+
+.float {
+	float: left;
+	padding: 7px;
+	font-family: arial;
+	font-weight: bolder;
+	font-size: 16px;
+}
+
+.search_field {
+	border: 2px solid black;
+	width: 200px;
+	height: 20px;
+}
+
+.button {
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color: lightgray;
+	font-family: arial;
+	font-weight: bolder;
+	font-size: 14px;
+}
+
+.float_right {
+	float: right
+}
+
+.search_button {
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color: lightgray;
+	font-family: arial;
+	font-weight: bolder;
+	font-size: 14px;
+}
+
+.clear {
+	clear: both;
+}
+
+td {
+	border: 2px solid black;
+	margin: 0px;
+	font-family: arial;
+}
+
+.key {
+	font-weight: bolder;
+}
+
+.link {
+	background-color: black;
+	width: 140px;
+	color: white;
+	font-family: arial;
+	font-weight: bolder;
+	font-size: 14px;
+}
+
+.back_button {
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color: lightgray;
+	font-family: arial;
+	font-weight: bolder;
+	font-size: 14px;
+}
+
+.inner_area label {
+	font-family: arial;
+	font-size: 16px;
+	font-weight: bolder;
+	float: left;
+	margin: 2px 10px 0px 5px;
+}
+
+.inner_area button {
+	margin-left: 150px;
+}
+
+.form_input1 {
+	border: 2px solid black;
+	width: 200px;
+	height: 20px;
+	margin-top: 2px;
+}
+
+.form_input2 {
+	border: 2px solid black;
+	width: 198px;
+	height: 100px;
+	margin-left: 12px;
+	margin-top: 2px;
+}
